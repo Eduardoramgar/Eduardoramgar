@@ -1,3 +1,6 @@
+<p align="center">
+<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/c201eef5-562a-4e06-9dc1-b09717c52478" />
+</p>
 # Eduardo Ramírez 👋
 Junior Data Analyst | Python & SQL
 
