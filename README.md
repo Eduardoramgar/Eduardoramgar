@@ -1,16 +1,21 @@
-## Hi there 👋
+# Eduardo Ramírez 👋
+Junior Data Analyst | Python & SQL
 
-<!--
-**Eduardoramgar/Eduardoramgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy analista de datos en formación con background en análisis estadístico y resolución de problemas.
+Me formé en el bootcamp de Data Analysis de TripleTen, trabajando con proyectos reales.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL)
+- Jupyter Notebook
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- 📱 Análisis de tarifas de telefonía móvil  
+- 🎮 Análisis de mercado de videojuegos  
+- 🚕 Impacto del clima en viajes (SQL + Python)
+
+## 🎯 Objetivo profesional
+Busco mi primera oportunidad como Data Analyst junior donde pueda transformar datos en decisiones de negocio.
+
+📫 Contacto: eduardo1ramirez1garcia1@gmail.com | LinkedIn www.linkedin.com/in/fernando-eduardo-ramirez-garcia-03360822b
